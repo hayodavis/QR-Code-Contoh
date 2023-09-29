@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729664820275",
+    "project_id": "qrcodetestes",
+    "storage_bucket": "qrcodetestes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729664820275:android:e6ae23604f9c6bc3c73f46",
+        "android_client_info": {
+          "package_name": "com.kuldiiproject.qr_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_uqIiuhcCR5eKb_GYZr8K5GlASE9T_mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
